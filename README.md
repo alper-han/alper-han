@@ -64,14 +64,15 @@ Designing minimal, reliable and high-performance systems.
 
 | Project | Description | Stars |
 | --- | --- | --- |
-| [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) | Nix Packages collection & NixOS | ⭐ 23663 |
-| [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) | Bazarr is a companion application to Sonarr and Radarr. I... | ⭐ 3819 |
-| [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) | The Microsoft community Windows Package Manager manifest ... | ⭐ 10284 |
-| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is an independent, highly customizable, dynamic ... | ⭐ 34214 |
-| [BrisklyDev/brisk](https://github.com/BrisklyDev/brisk) | Ultra-fast, modern download manager for desktop | ⭐ 1425 |
-| [Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS) | NixOS + Hyprland rice with flakes, home-manager and dev-s... | ⭐ 491 |
-| [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) | Community-driven Nix Flake for the Zen browser | ⭐ 813 |
-| [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | Professional Antigravity Account Manager & Switcher. One-... | ⭐ 25047 |
+| [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) | Nix Packages collection & NixOS | ⭐ 23799 |
+| [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) | Bazarr is a companion application to Sonarr and Radarr. I... | ⭐ 3835 |
+| [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) | The Microsoft community Windows Package Manager manifest ... | ⭐ 10310 |
+| [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) | A VA-API implemention using NVIDIA's NVDEC | ⭐ 1592 |
+| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is an independent, highly customizable, dynamic ... | ⭐ 34448 |
+| [BrisklyDev/brisk](https://github.com/BrisklyDev/brisk) | Ultra-fast, modern download manager for desktop | ⭐ 1430 |
+| [Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS) | NixOS + Hyprland rice with flakes, home-manager and dev-s... | ⭐ 495 |
+| [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) | Community-driven Nix Flake for the Zen browser | ⭐ 824 |
+| [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | Professional Antigravity Account Manager & Switcher. One-... | ⭐ 25823 |
 
 <!-- CONTRIBUTIONS-END -->
 
