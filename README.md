@@ -30,8 +30,6 @@
 
 ---
 
-## Contact
-
 <p align="center">
   <a href="mailto:contact@zynix.net"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail" /></a>
   <a href="https://discord.com/users/295327266718744578"><img src="https://img.shields.io/badge/__zynix-333333?style=for-the-badge&logo=discord" /></a>
